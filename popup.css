@@ -52,10 +52,18 @@ label.text-input input[type="text"] {
   margin: 0;
   overflow: hidden;
 }
+.panel-section-tabs-button:hover {
+  cursor: default;
+  background-color: lightgrey;
+}
 
 .panel-section-footer-button {
   text-align: unset;
   margin: 0;
+}
+.panel-section-footer-button:hover {
+  cursor: default;
+  background-color: lightgrey;
 }
 
 .file-size {
