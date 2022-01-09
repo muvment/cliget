@@ -250,3 +250,4 @@ browser.webRequest.onResponseStarted.addListener(
 );
 
 browser.browserAction.setBadgeBackgroundColor({ color: "#4a90d9" });
+browser.browserAction.setBadgeText({ text: `` });
